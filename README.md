@@ -94,3 +94,6 @@ My work combines technical implementation, automation strategy, and business exe
 <p align="center">
   <i>Building useful software with measurable business outcomes.</i>
 </p>
+
+<!-- profile-refresh -->
+
