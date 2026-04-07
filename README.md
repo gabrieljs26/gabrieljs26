@@ -89,7 +89,7 @@ My work combines technical implementation, automation strategy, and business exe
 
 - Email: **gabriel.dev.gutierrez@gmail.com**
 - Website: **https://automanize.com**
-- LinkedIn: **(add your URL here if you want it displayed)**
+- LinkedIn: **https://www.linkedin.com/in/gabriel-gutierrez-08719434a/**
 
 <p align="center">
   <i>Building useful software with measurable business outcomes.</i>
